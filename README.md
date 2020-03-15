@@ -38,4 +38,4 @@ composer install
 
 微信群：
 
-![image](./wechat-group.png)
+![image](http://chuantu.xyz/t6/724/1584280510x3752237043.png)
