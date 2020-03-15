@@ -1,0 +1,72 @@
+.login{
+  width: 100%;
+  height: 100%;
+  background-image: url('../../assets/images/login-bg.svg');
+  // background-size: cover;
+  background-color: #f0f2f5;
+  background-position: center;
+  position: relative;
+  &-con{
+    // position: absolute;
+    // right: 160px;
+    // top: 50%;
+    // transform: translateY(-60%);
+    // width: 300px;
+
+    width: 450px;
+
+    // margin: 200px auto 0;
+    // padding: 0 16px;
+    &-header{
+      font-size: 16px;
+      font-weight: 300;
+      text-align: center;
+      padding: 30px 0;
+    }
+    .form-img{
+      text-align: center;
+    }
+    .form-con{
+      padding: 10px 0 0;
+    }
+    // .login-tip{
+    //     font-size: 10px;
+    //     text-align: center;
+    //     color: #c3c3c3;
+    // }
+    .form-tip{
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: center;
+      align-items: center;
+      justify-content:space-between;
+      -webkit-justify-content:space-between;
+      .login-tip{
+        font-size: 10px;
+        color: #c3c3c3;
+        display:inline-block;
+        vertical-align:middle;
+      }
+      .login-icon{
+        vertical-align:middle;
+        fill:#bfbfbf;
+        display:inline-block;
+        margin-left: 10px;
+        cursor: pointer;
+        .icon:hover{
+          fill: #2d8cf0;
+        }
+      }
+      .register-url{
+        // float:right;
+        display:inline-block;
+      }
+    }
+  }
+  .foot {
+    position: fixed;
+    bottom: 3vh;
+    // width: 368px;
+    text-align: center;
+  }
+}
