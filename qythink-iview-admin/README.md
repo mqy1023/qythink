@@ -39,7 +39,7 @@ devServer: {
 
 ## 网站截图
 
-![image](./src/assets/images/qythink-preview/1.png)
-![image](./src/assets/images/qythink-preview/2.png)
-![image](./src/assets/images/qythink-preview/3.png)
-![image](./src/assets/images/qythink-preview/4.png)
+![image](http://chuantu.xyz/t6/724/1584280698x3752237043.png)
+![image](http://chuantu.xyz/t6/724/1584280748x3752237043.png)
+![image](http://chuantu.xyz/t6/724/1584280766x3752237043.png)
+![image](http://chuantu.xyz/t6/724/1584280782x2362407012.png)
